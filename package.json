@@ -1,0 +1,29 @@
+{
+  "name": "react-transitioner",
+  "version": "1.0.0",
+  "description": "Easy transitions with react components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pancho111203/react-transitioner.git"
+  },
+  "keywords": [
+    "react",
+    "transition",
+    "transitioner",
+    "animation",
+    "fade",
+    "in",
+    "out",
+    "translate"
+  ],
+  "author": "Francisco Rubin (pancho_111203@hotmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pancho111203/react-transitioner/issues"
+  },
+  "homepage": "https://github.com/pancho111203/react-transitioner#readme"
+}
